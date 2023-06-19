@@ -1,0 +1,29 @@
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+pkg install python
+
+pkg install python2
+
+pkg install openssh
+
+pip install-upgrade pip
+
+pip2 install requests
+
+pip2 install mechanize
+
+git clone
+
+https://github.com/NARUTOPLAYSHACKER/WA_CRASHER.git
+
+ls
+
+cd WA_CRASHER
+
+ls
+
+python2 WA_CRASHER.py
